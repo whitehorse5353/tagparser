@@ -1,0 +1,25 @@
+{
+  "name": "tagparser",
+  "version": "1.0.0",
+  "description": "Replace custome tags with default html tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whitehorse5353/tagparser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitehorse5353/tagparser/issues"
+  },
+  "homepage": "https://github.com/whitehorse5353/tagparser",
+  "dependencies": {
+    "express": "^4.13.3",
+    "http": "0.0.0",
+    "http-proxy": "^1.11.2",
+    "swig": "^1.4.2"
+  }
+}
